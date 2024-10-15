@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NULP\\AP\\autumn_labs\u0026pract\\October\\ap_t_06\\ReadyToLook\\Rec\\Lab_6.4rec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A183D839-8409-48DC-9FF6-4A69713541FB}|UnitTest1\\UnitTest1.vcxproj|D:\\NULP\\AP\\autumn_labs\u0026pract\\October\\ap_t_06\\ReadyToLook\\Rec\\Lab_6.4rec\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A183D839-8409-48DC-9FF6-4A69713541FB}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50B559A-EFCE-4E43-AA37-F811E7563EE4}|Lab_6.4rec\\Lab_6.4rec.vcxproj|D:\\NULP\\AP\\autumn_labs\u0026pract\\October\\ap_t_06\\ReadyToLook\\Rec\\Lab_6.4rec\\Lab_6.4rec\\Lab_6.4rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E50B559A-EFCE-4E43-AA37-F811E7563EE4}|Lab_6.4rec\\Lab_6.4rec.vcxproj|solutionrelative:Lab_6.4rec\\Lab_6.4rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\NULP\\AP\\autumn_labs\u0026pract\\October\\ap_t_06\\ReadyToLook\\Rec\\Lab_6.4rec\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\NULP\\AP\\autumn_labs\u0026pract\\October\\ap_t_06\\ReadyToLook\\Rec\\Lab_6.4rec\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T11:22:33.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab_6.4rec.cpp",
+              "DocumentMoniker": "D:\\NULP\\AP\\autumn_labs\u0026pract\\October\\ap_t_06\\ReadyToLook\\Rec\\Lab_6.4rec\\Lab_6.4rec\\Lab_6.4rec.cpp",
+              "RelativeDocumentMoniker": "Lab_6.4rec\\Lab_6.4rec.cpp",
+              "ToolTip": "D:\\NULP\\AP\\autumn_labs\u0026pract\\October\\ap_t_06\\ReadyToLook\\Rec\\Lab_6.4rec\\Lab_6.4rec\\Lab_6.4rec.cpp",
+              "RelativeToolTip": "Lab_6.4rec\\Lab_6.4rec.cpp",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T10:30:47.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
